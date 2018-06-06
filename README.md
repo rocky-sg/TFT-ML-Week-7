@@ -6,7 +6,7 @@ Coach: [Dylan](http://liqing-ustc.github.io/)
 Build a image captioning system.
 
 ## Steps
-* Download the Flickr8k dataset
+* Download the Flickr8k dataset and unzip
 
 Download the [Flickr 8k Images](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/Flickr8k_Dataset.zip)
 
