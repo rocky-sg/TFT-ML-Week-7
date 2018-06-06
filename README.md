@@ -11,3 +11,6 @@ Build a image captioning system.
 Download the [Flickr 8k Images](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/Flickr8k_Dataset.zip)
 
 Download the [Flickr 8k Captions](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/Flickr8k_text.zip)
+
+* Install [Keras](https://keras.io/#installation): 
+> pip install keras==2.1.6
