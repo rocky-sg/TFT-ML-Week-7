@@ -14,3 +14,5 @@ Download the [Flickr 8k Captions](http://nlp.cs.illinois.edu/HockenmaierGroup/Fr
 
 * Install [Keras](https://keras.io/#installation): 
 > pip install keras==2.1.6
+
+* Run through ImageCaptioning_Flickr8K.ipynb
